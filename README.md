@@ -118,6 +118,4 @@ def test_mixup_shapes():
 ## 📘 License
 
 This project is released for educational purposes under the MIT License.
-Please refer to the report (`Art_Classification_with_Semi_Supervised.pdf`) for full research details and references.
 
-```
